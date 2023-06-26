@@ -6,18 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <span>
-        Page Title: {{ $page_title }}
-    </span>
-    <br>
-    <br>
-    <span>
-        Name: {{ $name }}
-    </span>
-    <br>
-    <br>
-    <span>
-        ID: {{ $id }}
-    </span>
+    <h1>SORRYY THIS DATA NOT FOUND</h1>
 </body>
 </html>
