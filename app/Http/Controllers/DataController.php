@@ -10,8 +10,8 @@ class DataController extends Controller
         if ($data == 1) {
             $data = [
                 'page_title' => 'Hello World',
-                'Name' => 'Jason',
-                'ID' => '5254252',
+                'name' => 'Jason',
+                'id' => '5254252',
             ];
             return view ('Data.app');
         }
